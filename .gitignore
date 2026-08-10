@@ -28,3 +28,11 @@ skills/
 skills-lock.json
 docs/
 templates/
+.env
+.env.*
+__pycache__/
+.pytest_cache/
+dist/
+build/
+node_modules/
+.next/
