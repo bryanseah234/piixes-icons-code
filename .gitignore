@@ -9,6 +9,7 @@ build/
 node_modules/
 .next/
 
+
 # AI / editor dot directories (managed via sourcerepo)
 .*
 !.github/
